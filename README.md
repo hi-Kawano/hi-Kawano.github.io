@@ -1,4 +1,5 @@
 # Sean H. Kawano :melon: :monkey:
+### email: shkawano@uw.edu
 ### About
 I am an undergrad studying mathematics at the University of Washington. I have research interests in knot theory, computational topology, and topological data analysis. 
 
